@@ -1,0 +1,24 @@
+  # data
+  {
+        id: 1,
+        que: "What is the speed of light?",
+        ans: "The speed of light in a vacuum is approximately 299,792 kilometers per second (or about 186,282 miles per second)."
+    },
+    {
+        id: 2,
+        que: "What is the tallest mountain in the world?",
+        ans: "Mount Everest is the tallest mountain in the world, with a height of 8,848 meters (29,029 feet) above sea level."
+    },
+    {
+        id: 3,
+        que: "How many planets are there in our solar system?",
+        ans: "There are eight planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+    },
+    {
+        id: 4,
+        que: "What is the chemical symbol for gold?",
+        ans: "The chemical symbol for gold is Au."
+    }
+
+#font family
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,700;0,800;1,600&display=swap');
